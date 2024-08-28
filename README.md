@@ -104,7 +104,7 @@ The Hiring Analytics project provided key insights that significantly enhanced t
 
 - Email: subha.mainak@gmail.com
 
-- Linkedin: www.linkedin.com/in/mainakmukherjee08
+- Linkedin: www.linkedin.com/in/mainak8
 
 ### Tech-Stack Used
 
